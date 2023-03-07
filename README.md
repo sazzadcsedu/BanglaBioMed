@@ -3,7 +3,9 @@ The partial dataset is available in this repository. For the entire dataset, ple
 If you use the dataset please cite the following paper-
 
 BanglaBioMed: A Biomedical Named-Entity Annotated Corpus for Bangla (Bengali)
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qc7NxUkAAAAJ&sortby=pubdate&citation_for_view=qc7NxUkAAAAJ:9ZlFYXVOiuMC
+
+https://aclanthology.org/2022.bionlp-1.31.pdf
+
 
 @inproceedings{sazzed2022banglabiomed,
   title={BanglaBioMed: A Biomedical Named-Entity Annotated Corpus for Bangla (Bengali)},
