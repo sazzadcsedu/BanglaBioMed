@@ -1,6 +1,6 @@
 # BanglaBioMed
 
-UPDATE: A larger version with over 11000 entities added.
+UPDATE: A larger version (annotated_entity_11000_V0.txt) with over 11000 entities added. Use the new version.
 
 ****** OLD Version ********
 
