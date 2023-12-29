@@ -1,4 +1,10 @@
 # BanglaBioMed
+
+UPDATE: A larger version with over 11000 entities added.
+
+****** OLD Version ********
+
+
 The partial dataset is available in this repository. For the entire dataset, please email me- ssazz001@odu.edu.
 If you use the dataset please cite the following paper-
 
